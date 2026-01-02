@@ -70,7 +70,7 @@ This skill includes extensive reference documentation covering:
 
 ```bash
 # Clone the repository
-git clone https://github.com/dwb2023/bittensor-expert-skill.git
+git clone https://github.com/synapz-org/bittensor-expert-skill.git
 
 # Copy to Claude skills directory
 cp -r bittensor-expert-skill ~/.claude/skills/bittensor-expert
@@ -285,8 +285,8 @@ SOFTWARE.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/dwb2023/bittensor-expert-skill/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/dwb2023/bittensor-expert-skill/discussions)
+- **Issues**: [GitHub Issues](https://github.com/synapz-org/bittensor-expert-skill/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/synapz-org/bittensor-expert-skill/discussions)
 - **Bittensor Discord**: For general Bittensor questions
 - **Claude Code**: For Claude Code-specific questions
 
